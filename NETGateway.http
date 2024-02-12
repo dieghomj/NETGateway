@@ -1,6 +1,6 @@
 @NETGateway_HostAddress = http://localhost:5231
 
-GET {{NETGateway_HostAddress}}/weatherforecast/
+GET {{NETGateway_HostAddress}}/NetGateway/
 Accept: application/json
 
 ###
